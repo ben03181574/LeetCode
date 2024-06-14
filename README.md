@@ -7,4 +7,5 @@ Daily LeetCode practice by C++.
 3. [No.58 Length of Last Word](./Array/LengthOfLastWord.cpp)
 4. [No.151 Reverse Words in a String](./Array/ReverseWordInString.cpp)
 5. [No.169 Majority Element](./Array/MajorityElement.cpp)
-5. [No.189 Rotate Array](./Array/RotateArray.cpp) 
+6. [No.189 Rotate Array](./Array/RotateArray.cpp) 
+7. [No.274 H-Index](./Array/HIndex.cpp)
