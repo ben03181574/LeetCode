@@ -11,3 +11,4 @@ Daily LeetCode practice by C++.
 7. [No.169 Majority Element](./Array/MajorityElement.cpp)
 8. [No.189 Rotate Array](./Array/RotateArray.cpp) 
 9. [No.274 H-Index](./Array/HIndex.cpp)
+10. [No.380 Insert Delete GetRandom O(1)](./Array/RandomizedSet.cpp)
