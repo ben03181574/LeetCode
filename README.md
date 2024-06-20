@@ -12,5 +12,6 @@ Daily LeetCode practice by C++.
 8. [No.151 Reverse Words in a String](./Array/ReverseWordInString.cpp)
 9. [No.169 Majority Element](./Array/MajorityElement.cpp)
 10. [No.189 Rotate Array](./Array/RotateArray.cpp) 
-11. [No.274 H-Index](./Array/HIndex.cpp)
-12. [No.380 Insert Delete GetRandom O(1)](./Array/RandomizedSet.cpp)
+11. [No.238 Product of Array Except Self](./Array/ProductOfArrayExceptSelf.cpp)
+12. [No.274 H-Index](./Array/HIndex.cpp)
+13. [No.380 Insert Delete GetRandom O(1)](./Array/RandomizedSet.cpp)
