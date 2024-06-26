@@ -19,3 +19,4 @@ Daily LeetCode practice by C++.
 15. [No.238 Product of Array Except Self](./Array/ProductOfArrayExceptSelf.cpp)
 16. [No.274 H-Index](./Array/HIndex.cpp)
 17. [No.380 Insert Delete GetRandom O(1)](./Array/RandomizedSet.cpp)
+18. [No.392 Is Subsequence](./Array/IsSebsequence.cpp)
